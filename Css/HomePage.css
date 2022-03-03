@@ -1,3 +1,11 @@
 body{
-	background-color: green;
+	background-color: #E0FFFF;
+	#background-image:url("../img/Homepageicon.ico");  設定背景
+}
+
+.hd{
+	background-color: green;;
+	text-align:center;
+	font-size:50px;
+	position-top:0px;
 }
