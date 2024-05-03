@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(175, 240, 240, 0.711);
+    background-color: rgba(175, 240, 240, 0.419);
 }
 
 #top_title {
@@ -9,10 +9,37 @@ body {
     font-weight: bold;
 }
 
-#side {
-    background-color: rgba(32, 200, 219, 0.306);
+#blank {
+    width: 50%;
 }
 
-table {
-    width: 30%;
+#top_table {
+    width: 100%;
+    background-color: #FFFFFF;
+
+}
+
+#descript {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#descript-msg {
+    font-size: 40px;
+    padding-left: 30%;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#link {
+    font-size: 30px;
 }
